@@ -199,10 +199,10 @@
         grid-template-rows: auto 13rem;
         width: 35rem;
         right: -5rem;
-        bottom: 10rem;
+        // bottom: 10rem;
     }
     @include m.desktop_1020 {
-        bottom: 5rem;
+        // bottom: 5rem;
         width: 38rem;
     }
     @include m.desktop_1100 {

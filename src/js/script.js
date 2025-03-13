@@ -89,12 +89,8 @@ window.addEventListener("load", () => {
             }
         },
         breakpoints: {
-            760: {
-                slidesPerView: 3,
-                slidesPerColumn: 1
-            },
             999: {
-                slidesPerView: 1,
+                slidesPerView: 3,
                 slidesPerColumn: 1
             },
         }
